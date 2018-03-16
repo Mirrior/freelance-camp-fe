@@ -12,11 +12,12 @@ var HomepageComponent = /** @class */ (function () {
     }
     HomepageComponent = __decorate([
         core_1.Component({
-            selector: 'main-app',
-            template: '<h1>Freelance Bootcamp Homepage</h1>'
+            moduleId: module.id,
+            selector: 'homepage',
+            templateUrl: 'homepage.component.html'
         })
     ], HomepageComponent);
     return HomepageComponent;
 }());
 exports.HomepageComponent = HomepageComponent;
-//# sourceMappingURL=homepage.compenents.js.map
+//# sourceMappingURL=homepage.component.js.map
