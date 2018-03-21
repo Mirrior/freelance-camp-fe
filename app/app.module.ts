@@ -22,7 +22,7 @@ import { AppRoutingModule } from './app-routing.module';
     HomepageComponent,
     DocumentsComponent,
     ProposalListComponent,
-    ProposalNewComponent
+    ProposalNewComponent,
     ProposalShowComponent
   ],
   bootstrap: [
